@@ -1,0 +1,2 @@
+Scope of Fork:
+  Would like to use this honeypot for the dshield project.  Will need to configure API for logs to report to dshield, as well as the ability to configure the URL headers to be configurable.
